@@ -46,7 +46,4 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 [![Twitter](https://img.shields.io/twitter/follow/ChanduWagh23?style=social)](https://twitter.com/ChanduWagh23)
 [![Mail](https://img.shields.io/badge/-cwagh2309@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:cwagh2309@gmail.com)
 
-## My GitHub Stats & Badges
-| <img src="https://github-profile-trophy.vercel.app/?username=CodeCshekhar" alt="CodeCshekhar" /> |
-| <a href="https://github.com/CodeCshekhar/CodeCshekhar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeCshekhar&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="CodeCshekhar's github stats" /></a> | <a href="https://github.com/CodeCshekhar/CodeCshekhar"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCshekhar&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
